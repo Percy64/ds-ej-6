@@ -1,0 +1,11 @@
+.form_01{
+    min-height: 15em;
+    border:1px solid grey;
+    border-radius: 15px;
+}
+input {
+    margin-bottom: 10px; /* Agrega un espacio debajo de cada input */
+}
+.button_border{
+    border-radius: 10px;
+}
